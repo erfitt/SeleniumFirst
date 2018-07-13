@@ -28,7 +28,7 @@ namespace SeleniumFirst
         {
             txtUserName.EnterText(userName);
             txtPassword.EnterText(password);
-            btnLogin.Clicks();
+            btnLogin.Submit();
 
             return new EAPageObject();
         }

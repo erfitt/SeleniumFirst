@@ -18,3 +18,6 @@ C:\Users\Ad1\Documents\Visual Studio 2017\Projects\SeleniumFirst\SeleniumFirst\b
 C:\Users\Ad1\Documents\Visual Studio 2017\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.dll
 C:\Users\Ad1\Documents\Visual Studio 2017\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.xml
 C:\Users\Ad1\Documents\Visual Studio 2017\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\nunit.framework.pdb
+C:\Users\Ad1\Documents\Visual Studio 2017\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\Excel.dll
+C:\Users\Ad1\Documents\Visual Studio 2017\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ad1\Documents\Visual Studio 2017\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\Excel.pdb
